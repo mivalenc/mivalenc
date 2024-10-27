@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Michelle! </h1>
 
-<!--
-**mivalenc/mivalenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Science Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Sentiment Analysis: Walmart's Customer Satisfaction in Electronics & Home Entertainment</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Evaluating product ratings, pricing, demographics, and promotions that impact customer satisfaction.
+
+[Sentiment Analysis on Customer Satisfaction]()
+
+
+- <b>(Project 2)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+  
+- <b>(Project 3)</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+
+
+<h2> 🤳 Connect with me:</h2>
+
+mivalencia@my365.bellevue.edu
+
+
+
