@@ -1,4 +1,13 @@
 <h1>Hi, I'm Michelle! </h1>
+I'm a recent graduate in Data Science with a passion for turning complex data into actionable insights. I thrive on solving real-world problems through data analysis, machine learning, and statistical modeling.
+
+
+In this portfolio, you'll find a collection of my projects that showcase my ability to extract meaningful information from data. I'm particularly intrested in predictive analytics and natural language processing. I'm excited to continue learning and growing in this dynamic field of data science.
+
+
+<h2> Skills:</h2> 
+My journey in data science has equipped me with skills in Python, R, SQL, and with experience in data visualization tools like Tableau and Matplotlib.
+
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
