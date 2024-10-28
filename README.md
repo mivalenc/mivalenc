@@ -15,7 +15,7 @@ My journey in data science has equipped me with skills in Python, R, SQL, and wi
 
 Evaluating product ratings, pricing, demographics, and promotions that impact customer satisfaction.
 
-[Sentiment Analysis on Customer Satisfaction]()
+[Sentiment Analysis on Customer Satisfaction](https://github.com/mivalenc/sentiment-analysis-Walmart/tree/main)
 
 
 - <b>(Project 2)</b>
